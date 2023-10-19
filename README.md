@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ladybert
+- 👋 Hi, I’m FawzyCode
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning jS
 - 💞️ I’m looking to collaborate on Github, Discord, Whatsapp
